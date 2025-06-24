@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="/logo.png"/>
+	<img src="/icon.png"/>
 </p>
 
 **⚠ This is a fork of the original lpp-3ds, with preserved and reformatted documentation, as the original project is no longer actively maintained.**
