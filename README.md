@@ -1,6 +1,11 @@
 <p align="center">
-	<img src="http://rinnegatamante.it/lpplogo.png"/>
+	<img src="/logo.png"/>
 </p>
+
+**⚠ This is a fork of the original lpp-3ds, with preserved and reformatted documentation, as the original project is no longer actively maintained.**
+The latest build I know of is from 28th Feb 2016, and the docs mention last being updated on the 15th July 2016, at 11:25 GMT +1:00. There may be nightly builds from after that (as mentioned in the docs), yet it is unknown (to me) if we have those builds. PLEASE contact if found. imaginegameservice@gmail.com
+
+**--- The original README.md continues from here. ---**
 
 # Description
 
